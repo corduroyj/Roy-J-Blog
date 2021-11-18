@@ -1,8 +1,18 @@
 +++
 title = "Introduction"
 description = "What to expect here"
+tags = [
+    "intro",
+    "writing",
+    "development",
+]
 date = 2021-11-18T12:13:00Z
+categories = [
+    "Development",
+    "Writing",
+]
 author = "Roy Jonuk"
+menu = "main"
 +++
 
 ## The Intent of this Blog

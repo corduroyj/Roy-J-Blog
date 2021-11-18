@@ -1,6 +1,6 @@
 baseurl = "/"
 title = "Roy Jonuk's Blog"
-theme = "zzo"
+theme = "ghostwriter"
 
 [Params]
     mainSections = ["post"]
